@@ -2,4 +2,4 @@
 html &amp; css design
 
 
-Demo : https://saidkarim-web.github.io/template2-html-css-/#
+Demo : https://mrsaidkarim.github.io/template2-html-css-/
